@@ -1,6 +1,4 @@
-Assessment 1: IT Profile
-
-Personal Information
+Personal InformationAssessment 1: IT Profile
 
  Name: Jeremy Naupay
 
