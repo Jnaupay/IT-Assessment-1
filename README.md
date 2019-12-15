@@ -1,8 +1,7 @@
 Assessment 1: IT Profile
-<body>
-      <h1>Personal Information -</h1> 
-<p style="font-weight: bold;">Simply Easy Learning</p>
-<body>
+
+Personal Information -
+
 Name: Jeremy Naupay
 
 Student ID: S3831039
