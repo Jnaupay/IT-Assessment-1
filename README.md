@@ -1,6 +1,6 @@
 Assessment 1: IT Profile
 
-Personal Information:
+**Personal Information:**
 
 Name - Jeremy Naupay
 
@@ -9,12 +9,12 @@ Student ID - S3831039
 E-mail - S3831039@student.rmit.edu.au
 
 
-Background:
+**Background:**
 
 I am an Australian born citizen with Hungarian and Peruvian origins. Completed Year 12 Highschool Certification and cannot speak in another language besides English. I love working with model train sets and designing new tracks at home. 
 
 
-Interest in IT:
+**Interest in IT:**
 
 I am interested in putting together computers and connecting them with other devices. I believe this interest developed while being around my friends who were originally interested in IT. This led me to spend my own time on a computer and see what it could do, or by going on YouTube and watching reviewers explain PC hardware. I began teaching myself trouble shooting methods and how applications integrate with Windows based systems. Through this I have been able to go for work experience roles, which has allowed me to be given an opportunity to work in the IT industry. This has been an exciting role, as it has exposed me to many different computer configurations seen in a corporate setting. 
 
@@ -24,7 +24,7 @@ Being able to work as a team and core technical IT knowledge is what I am expect
 I expect to learn how to develop a solution to an existing problem we face within the industry. For example, Due to the advancement of technology and how involved it is with our daily lives, it is important to ensure a measure of security so that information about ourselves isn’t exposed to the wrong people. I would like to aim for higher security measures to ensure that the user base does not have their personal data taken from them without realising it. I hope to develop a deeper understanding of how this can be achieved while going through the course.
 
 
-Ideal Job:
+**Ideal Job:**
 
 Job – Chief Technology Officer
 Job Advertisement Link – <a href="https://www.seek.com.au/job/40539188?type=standout#searchRequestToken=6a7b19af-4f3d-47f2-9c5f-55d0593f6159">Job Link</a> 
@@ -40,7 +40,7 @@ It is a must to at least have a degree within IT and extensive prior knowledge i
 My current experience is in the field of Application Support Officer for a few years. Currently in a Help Desk consultant role helping clients out with the current application they work with in order to run a business. These experiences help me in further developing myself as I work towards a bachelor’s degree. Eventually moving over into a team leader role within help desk to increase my managing experience. After finishing my bachelor degree, I am either thinking of doing a masters or moving into a degree in business. With these steps I am hoping it will lead me to greater opportunities of growth to then be in a CIO position in the next 8-10 years.  
 
 
-Personal Profile:
+**Personal Profile:**
 
 Myer Briggs Test – Advocate
 
@@ -73,7 +73,7 @@ I believe it is essential that I take into consideration of my weakness within t
 When forming a team, it is important to know who is available and what experience they carry. I need to look for people who have that experience in team-based areas and be able to understand how to balance out my weaknesses for the benefit of the group. For this to occur I will need to effectively communicate my weakness on audio retention. I can do this by letting everyone know at the start of the meeting if we can show visual examples. This will ensure the team will become more aware on how they communicate ideas to me or others. This is a good growing experience when listening to other people in the group and being able to adapt to that new environment of team work.
 
 
-Project Idea:
+**Project Idea:**
 
 A mobile phone app that integrates with a sensor pointing towards a database, which reads the data of the potted plant and the requirements needed for the plant to grow. This app connects with the sensor positioned on the inside of the pot plant toward the edge. Reading soil data in real-time to then report back to the app with results to notify the user on what the plant is needing for maintenance. For example, the plant will report data on:
 •	Moisture content water within the soil
