@@ -4,6 +4,7 @@ Personal Information -
 
 Name: Jeremy Naupay
 Student ID: S3831039
+
 E-mail: S3831039@student.rmit.edu.au
 
 Background:
