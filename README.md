@@ -55,7 +55,7 @@ I believe it is essential that I take into consideration of my weakness within t
 
 When forming a team, it is important to know who is available and what experience they carry. I need to look for people who have that experience in team-based areas and be able to understand how to balance out my weaknesses for the benefit of the group. For this to occur I will need to effectively communicate my weakness on audio retention. I can do this by letting everyone know at the start of the meeting if we can show visual examples. This will ensure the team will become more aware on how they communicate ideas to me or others. This is a good growing experience when listening to other people in the group and being able to adapt to that new environment of team work.
 
-Project Idea
+Project Idea - 
 
 
 A mobile phone app that integrates with a sensor pointing towards a database, which reads the data of the potted plant and the requirements needed for the plant to grow. This app connects with the sensor positioned on the inside of the pot plant toward the edge. Reading soil data in real-time to then report back to the app with results to notify the user on what the plant is needing for maintenance. For example, the plant will report data on:
