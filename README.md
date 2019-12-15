@@ -1,4 +1,4 @@
-Assessment 1: IT Profile
+                                              <font size="2">Assessment 1: IT Profile</font>
 
 **Personal Information:**
 
