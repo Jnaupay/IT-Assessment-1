@@ -37,6 +37,8 @@ Job Advertisement Link – <a href="https://www.seek.com.au/job/40539188?type=st
   <br><br>
 </p>
 
+
+
 Detailed Requirement Descriptions:
 
 The Chief Technology officer position is to manage the ICT department in meeting the business needs of the organisation and external service needs for the public. This may include dealing with strategical implementation of the ICT infrastructure to further improve customer service performance towards clients. Further supporting the development of internal services to improve the efficiency of the organisation to provide a more stable structure, which will improve reliability with the client base. I believe that this role, in its very core, a position that aims at developing the infrastructure of Australia and further advancing our technological means for further development e.g. residential expansion. I do see the position as having a broader approach on ICT functions within Australia instead of being limited to a small business with no real understanding of the changing trends within the bigger society. 
@@ -59,6 +61,8 @@ ImageResults:
   <br><br>
 </p>
 
+
+
 Online Learning Style Test – Visual Learner
 
 Website: <a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=7&V=10&T=3">Visual Learner Results</a> 
@@ -70,6 +74,8 @@ Image Results:
   <br><br>
 </p>
 
+
+
 Third-Party Test – Creativity Test Score = 55.36
 
 Website: <a href="http://www.testmycreativity.com/">Creativity Test Link</a>
@@ -80,6 +86,8 @@ Image Results:
 <b><img src="https://user-images.githubusercontent.com/58510464/70858899-ba3a6f00-1f5e-11ea-8837-72dfe5e8b4be.PNG" width="1096" height="684"></b><br>
   <br><br>
 </p>
+
+
 
 These test results show that I am leaning towards a more visual, interactive lifestyle with people. Looking at the first set of results encourages me and shows that I am an all-rounder with my personality. It helps me to understand who I am in both mindset and lifestyle wise and how I interact with the world around me. It shows me that I still have areas in my life where I need improvement, especially in listening, retaining information and implementing it in my everyday life.  
 
