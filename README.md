@@ -1,6 +1,6 @@
 Assessment 1: IT Profile
 
-- Personal Information -
+-- Personal Information --
 
 Name: Jeremy Naupay
 
@@ -12,7 +12,7 @@ Background:
 I am an Australian born citizen with Hungarian and Peruvian origins. Completed Year 12 Highschool Certification and cannot speak in another language besides English. I love working with model train sets and designing new tracks at home. 
 
 
-- Interest in IT - 
+-- Interest in IT --
 
 I am interested in putting together computers and connecting them with other devices. I believe this interest developed while being around my friends who were originally interested in IT. This led me to spend my own time on a computer and see what it could do, or by going on YouTube and watching reviewers explain PC hardware. I began teaching myself trouble shooting methods and how applications integrate with Windows based systems. Through this I have been able to go for work experience roles, which has allowed me to be given an opportunity to work in the IT industry. This has been an exciting role, as it has exposed me to many different computer configurations seen in a corporate setting. 
 
