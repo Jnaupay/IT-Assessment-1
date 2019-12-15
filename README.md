@@ -1,4 +1,7 @@
-                                                    **Assessment 1: IT Profile**
+<p align="center">
+<b>**Assessment 1: IT Profile**</b><br>
+  <br><br>
+</p>
 
 **Personal Information:**
 
