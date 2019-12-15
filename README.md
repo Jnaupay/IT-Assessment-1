@@ -55,7 +55,10 @@ Website: <a href="https://www.16personalities.com/infj-personality">Advocate Res
 
 ImageResults:
 
-
+<p align="center">
+<b><img src="https://user-images.githubusercontent.com/58510464/70858900-bad30580-1f5e-11ea-971a-9ce1706f06b1.PNG" width="500" height="600"></b><br>
+  <br><br>
+</p>
 
 Online Learning Style Test – Visual Learner
 
@@ -64,7 +67,10 @@ Website: <a href="http://www.educationplanner.org/students/self-assessments/lear
 
 Image Results: 
 
-
+<p align="center">
+<b>https://user-images.githubusercontent.com/58510464/70858901-bb6b9c00-1f5e-11ea-94a6-317be6dcc4e4.PNG<img src="" width="500" height="600"></b><br>
+  <br><br>
+</p>
 
 Third-Party Test – Creativity Test Score = 55.36
 
@@ -73,7 +79,10 @@ Website: <a href="http://www.testmycreativity.com/">Creativity Test Link</a>
 
 Image Results: 
 
-
+<p align="center">
+<b>https://user-images.githubusercontent.com/58510464/70858899-ba3a6f00-1f5e-11ea-8837-72dfe5e8b4be.PNG<img src="" width="500" height="600"></b><br>
+  <br><br>
+</p>
 
 These test results show that I am leaning towards a more visual, interactive lifestyle with people. Looking at the first set of results encourages me and shows that I am an all-rounder with my personality. It helps me to understand who I am in both mindset and lifestyle wise and how I interact with the world around me. It shows me that I still have areas in my life where I need improvement, especially in listening, retaining information and implementing it in my everyday life.  
 
