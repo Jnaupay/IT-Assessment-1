@@ -31,9 +31,12 @@ Job Advertisement Link – <a href="https://www.seek.com.au/job/40539188?type=st
 
 Snapshot – 
  
-Detailed Requirements Descriptions:
+Detailed Requirement Descriptions:
+
 The Chief Technology officer position is to manage the ICT department in meeting the business needs of the organisation and external service needs for the public. This may include dealing with strategical implementation of the ICT infrastructure to further improve customer service performance towards clients. Further supporting the development of internal services to improve the efficiency of the organisation to provide a more stable structure, which will improve reliability with the client base. I believe that this role, in its very core, a position that aims at developing the infrastructure of Australia and further advancing our technological means for further development e.g. residential expansion. I do see the position as having a broader approach on ICT functions within Australia instead of being limited to a small business with no real understanding of the changing trends within the bigger society. 
+
 It is a must to at least have a degree within IT and extensive prior knowledge in ICT management before going ahead with the role. Knowing how important it is functioning in an ICT department from the lowest points in both hardware and application to ensure the vision is allowing everyone you manage and deal with to benefit from it. Further to this is prior management experience, which allows for clear understanding how team operation functions, as the industry grows. 
+
 My current experience is in the field of Application Support Officer for a few years. Currently in a Help Desk consultant role helping clients out with the current application they work with in order to run a business. These experiences help me in further developing myself as I work towards a bachelor’s degree. Eventually moving over into a team leader role within help desk to increase my managing experience. After finishing my bachelor degree, I am either thinking of doing a masters or moving into a degree in business. With these steps I am hoping it will lead me to greater opportunities of growth to then be in a CIO position in the next 8-10 years.  
 
 
