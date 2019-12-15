@@ -7,7 +7,8 @@ Name - Jeremy Naupay
 Student ID - S3831039
 
 E-mail - S3831039@student.rmit.edu.au
-test123
+
+
 Background:
 I am an Australian born citizen with Hungarian and Peruvian origins. Completed Year 12 Highschool Certification and cannot speak in another language besides English. I love working with model train sets and designing new tracks at home. 
 
@@ -21,6 +22,7 @@ Enrolling to RMIT for a Bachelor of Information Technology has excited me to not
 Being able to work as a team and core technical IT knowledge is what I am expecting to learn while going through this course. Working with other IT minded members will help me to know how different people interact with each other and how I can work with them. All coming down to changing my mindset from being isolated to knowing that there is a bigger community of like-minded people. 
 I expect to learn how to develop a solution to an existing problem we face within the industry. For example, Due to the advancement of technology and how involved it is with our daily lives, it is important to ensure a measure of security so that information about ourselves isn’t exposed to the wrong people. I would like to aim for higher security measures to ensure that the user base does not have their personal data taken from them without realising it. I hope to develop a deeper understanding of how this can be achieved while going through the course.
 
+
 Ideal Job:
 
 Job – Chief Technology Officer
@@ -32,6 +34,7 @@ Detailed Requirements Descriptions:
 The Chief Technology officer position is to manage the ICT department in meeting the business needs of the organisation and external service needs for the public. This may include dealing with strategical implementation of the ICT infrastructure to further improve customer service performance towards clients. Further supporting the development of internal services to improve the efficiency of the organisation to provide a more stable structure, which will improve reliability with the client base. I believe that this role, in its very core, a position that aims at developing the infrastructure of Australia and further advancing our technological means for further development e.g. residential expansion. I do see the position as having a broader approach on ICT functions within Australia instead of being limited to a small business with no real understanding of the changing trends within the bigger society. 
 It is a must to at least have a degree within IT and extensive prior knowledge in ICT management before going ahead with the role. Knowing how important it is functioning in an ICT department from the lowest points in both hardware and application to ensure the vision is allowing everyone you manage and deal with to benefit from it. Further to this is prior management experience, which allows for clear understanding how team operation functions, as the industry grows. 
 My current experience is in the field of Application Support Officer for a few years. Currently in a Help Desk consultant role helping clients out with the current application they work with in order to run a business. These experiences help me in further developing myself as I work towards a bachelor’s degree. Eventually moving over into a team leader role within help desk to increase my managing experience. After finishing my bachelor degree, I am either thinking of doing a masters or moving into a degree in business. With these steps I am hoping it will lead me to greater opportunities of growth to then be in a CIO position in the next 8-10 years.  
+
 
 Personal Profile:
 
@@ -59,6 +62,7 @@ These test results show that I am leaning towards a more visual, interactive lif
 I believe it is essential that I take into consideration of my weakness within the team, as I am more visual/direct in my approach. I think it will be harder for me to understand or retain ideas discussed by other members if I do not see the idea visually shown and noted down for future reference. This can prove to be an issue when playing my part in the implementation of the idea agreed upon after the discussion.
 
 When forming a team, it is important to know who is available and what experience they carry. I need to look for people who have that experience in team-based areas and be able to understand how to balance out my weaknesses for the benefit of the group. For this to occur I will need to effectively communicate my weakness on audio retention. I can do this by letting everyone know at the start of the meeting if we can show visual examples. This will ensure the team will become more aware on how they communicate ideas to me or others. This is a good growing experience when listening to other people in the group and being able to adapt to that new environment of team work.
+
 
 Project Idea:
 
