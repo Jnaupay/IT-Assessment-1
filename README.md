@@ -46,6 +46,7 @@ Myer Briggs Test – Advocate
 
 Website: <a href="https://www.16personalities.com/infj-personality">Advocate Results</a> 
 
+
 ImageResults:
 
 
@@ -54,6 +55,7 @@ Online Learning Style Test – Visual Learner
 
 Website: <a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=7&V=10&T=3">Visual Learner Results</a> 
 
+
 Image Results: 
 
 
@@ -61,6 +63,7 @@ Image Results:
 Third-Party Test – Creativity Test Score = 55.36
 
 Website: <a href="http://www.testmycreativity.com/">Creativity Test Link</a>
+
 
 Image Results: 
 
