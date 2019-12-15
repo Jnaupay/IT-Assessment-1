@@ -92,9 +92,9 @@ When forming a team, it is important to know who is available and what experienc
 
 A mobile phone app that integrates with a sensor pointing towards a database, which reads the data of the potted plant and the requirements needed for the plant to grow. This app connects with the sensor positioned on the inside of the pot plant toward the edge. Reading soil data in real-time to then report back to the app with results to notify the user on what the plant is needing for maintenance. For example, the plant will report data on:
 
-•	Moisture content water within the soil
-•	Type of soil required for the plant
-•	Soil meets the need of the plant for growth.
+- Moisture content water within the soil
+- Type of soil required for the plant
+- Soil meets the need of the plant for growth.
 
 This will assist in educating people on correct agricultural practices when dealing with potted plants and small vegetable beds. 
 
