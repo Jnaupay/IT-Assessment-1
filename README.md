@@ -36,21 +36,21 @@ My current experience is in the field of Application Support Officer for a few y
 Personal Profile:
 
 Myer Briggs Test – Advocate
-Website: https://www.16personalities.com/
+Website: <a href="https://www.16personalities.com/infj-personality">Advocate Results</a> 
 
 Image:
 
 
 
 Online Learning Style Test – Visual Learner
-Website: <a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=7&V=10&T=3">link</a> 
+Website: <a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=7&V=10&T=3">Visual Learner Results</a> 
 
 Image: 
 
 
 
 Third-Party Test – Creativity Test Score = 55.36
-Website: http://www.testmycreativity.com/
+Website: <a href="http://www.testmycreativity.com/">Creativity Test Results</a>
 
 Image: 
 
