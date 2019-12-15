@@ -1,5 +1,5 @@
 <p align="center">
-<b>**Assessment 1: IT Profile**</b><br>
+<b>Assessment 1: IT Profile</b><br>
   <br><br>
 </p>
 
