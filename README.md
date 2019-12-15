@@ -1,16 +1,17 @@
-Personal InformationAssessment 1: IT Profile
+Assessment 1: IT Profile
 
- Name: Jeremy Naupay
+Personal Information - 
 
+Name: Jeremy Naupay
 Student ID: S3831039
-
- E-mail: S3831039@student.rmit.edu.au
+E-mail: S3831039@student.rmit.edu.au
 
 Background:
 I am an Australian born citizen with Hungarian and Peruvian origins. Completed Year 12 Highschool Certification and cannot speak in another language besides English. I love working with model train sets and designing new tracks at home. 
 
 
-Interest in IT
+Interest in IT - 
+
 I am interested in putting together computers and connecting them with other devices. I believe this interest developed while being around my friends who were originally interested in IT. This led me to spend my own time on a computer and see what it could do, or by going on YouTube and watching reviewers explain PC hardware. I began teaching myself trouble shooting methods and how applications integrate with Windows based systems. Through this I have been able to go for work experience roles, which has allowed me to be given an opportunity to work in the IT industry. This has been an exciting role, as it has exposed me to many different computer configurations seen in a corporate setting. 
 
 Enrolling to RMIT for a Bachelor of Information Technology has excited me to not only have a degree to further my career, but also to extend my IT knowledge base. At RMIT, I have the opportunity to work with people that have multiple backgrounds and knowledge of the IT industry. I believe it to be a powerful tool when like-minded students come together to learn and develop their skills. Especially when there is a wide range of experiences from different students coming on all sides within the industry. Some from high school and others who have been in IT for over 10 years. All of these different people coming from different walks of IT contribute to a more long-lasting course experience.
@@ -18,7 +19,7 @@ Enrolling to RMIT for a Bachelor of Information Technology has excited me to not
 Being able to work as a team and core technical IT knowledge is what I am expecting to learn while going through this course. Working with other IT minded members will help me to know how different people interact with each other and how I can work with them. All coming down to changing my mindset from being isolated to knowing that there is a bigger community of like-minded people. 
 I expect to learn how to develop a solution to an existing problem we face within the industry. For example, Due to the advancement of technology and how involved it is with our daily lives, it is important to ensure a measure of security so that information about ourselves isn’t exposed to the wrong people. I would like to aim for higher security measures to ensure that the user base does not have their personal data taken from them without realising it. I hope to develop a deeper understanding of how this can be achieved while going through the course.
 
-Ideal Job
+Ideal Job - 
 
 Job – Chief Technology Officer
 Job Advertisement Link – https://www.seek.com.au/job/40539188?type=standout#searchRequestToken=6a7b19af-4f3d-47f2-9c5f-55d0593f6159
