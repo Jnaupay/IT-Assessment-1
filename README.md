@@ -56,7 +56,7 @@ Website: <a href="https://www.16personalities.com/infj-personality">Advocate Res
 ImageResults:
 
 <p align="center">
-<b><img src="https://user-images.githubusercontent.com/58510464/70858900-bad30580-1f5e-11ea-971a-9ce1706f06b1.PNG" width="500" height="600"></b><br>
+<b><img src="https://user-images.githubusercontent.com/58510464/70858900-bad30580-1f5e-11ea-971a-9ce1706f06b1.PNG" width="976" height="741"></b><br>
   <br><br>
 </p>
 
@@ -68,7 +68,7 @@ Website: <a href="http://www.educationplanner.org/students/self-assessments/lear
 Image Results: 
 
 <p align="center">
-<b><img src="https://user-images.githubusercontent.com/58510464/70858901-bb6b9c00-1f5e-11ea-94a6-317be6dcc4e4.PNG" width="500" height="600"></b><br>
+<b><img src="https://user-images.githubusercontent.com/58510464/70858901-bb6b9c00-1f5e-11ea-94a6-317be6dcc4e4.PNG" width="525" height="196"></b><br>
   <br><br>
 </p>
 
@@ -80,7 +80,7 @@ Website: <a href="http://www.testmycreativity.com/">Creativity Test Link</a>
 Image Results: 
 
 <p align="center">
-<b><img src="https://user-images.githubusercontent.com/58510464/70858899-ba3a6f00-1f5e-11ea-8837-72dfe5e8b4be.PNG" width="500" height="600"></b><br>
+<b><img src="https://user-images.githubusercontent.com/58510464/70858899-ba3a6f00-1f5e-11ea-8837-72dfe5e8b4be.PNG" width="1096" height="684"></b><br>
   <br><br>
 </p>
 
