@@ -32,7 +32,6 @@ I expect to learn how to develop a solution to an existing problem we face withi
 Job – Chief Technology Officer
 Job Advertisement Link – <a href="https://www.seek.com.au/job/40539188?type=standout#searchRequestToken=6a7b19af-4f3d-47f2-9c5f-55d0593f6159">Job Link</a> 
 
-Snapshot – 
 <p align="center">
 <b><img src="https://user-images.githubusercontent.com/58510464/70858897-b4dd2480-1f5e-11ea-9d6e-4471bb310768.png" width="500" height="600"></b><br>
   <br><br>
