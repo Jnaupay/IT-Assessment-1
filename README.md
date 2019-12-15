@@ -83,7 +83,7 @@ Website: <a href="http://www.testmycreativity.com/">Creativity Test Link</a>
 Image Results: 
 
 <p align="center">
-<b><img src="https://user-images.githubusercontent.com/58510464/70858899-ba3a6f00-1f5e-11ea-8837-72dfe5e8b4be.PNG" width="1096" height="684"></b><br>
+<b><img src="https://user-images.githubusercontent.com/58510464/70858899-ba3a6f00-1f5e-11ea-8837-72dfe5e8b4be.PNG" width="1096" height="584"></b><br>
   <br><br>
 </p>
 
