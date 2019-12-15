@@ -33,6 +33,8 @@ Job – Chief Technology Officer
 Job Advertisement Link – <a href="https://www.seek.com.au/job/40539188?type=standout#searchRequestToken=6a7b19af-4f3d-47f2-9c5f-55d0593f6159">Job Link</a> 
 
 Snapshot – 
+
+
  
 Detailed Requirement Descriptions:
 
@@ -111,7 +113,8 @@ In order to undertake the project, the following skills will be required:
 -	Detailed understanding in Javascript, HTML, CSS and C++. With other languages if required as the project continues.
 -	Database management
 -	Problem solving skills 
--	Extensive Networking knowledge 
+-	Extensive Networking knowledge
+
 https://phonegap.com/products/
 
 After our extended marketing program we should see a surge of users opting in for the subscription and an increase in agricultural sales for plant sellers who opt in for the program. We would also see an increase in educational uses within schools. Students would be able to learn through the educational program on how to tend potted plants. Learning about the life cycle and scientific complexities behind organic organisms. I believe this application will see a great impact in allowing more people to be informed on how to look after the environment and ensuring that users are doing their best to make living conditions better for the garden. 
