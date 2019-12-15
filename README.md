@@ -36,7 +36,7 @@ Job Advertisement Link – <a href="https://www.seek.com.au/job/40539188?type=st
 <b><img src="https://user-images.githubusercontent.com/58510464/70858897-b4dd2480-1f5e-11ea-9d6e-4471bb310768.png" width="700" height="1000"></b><br>
   <br><br>
 </p>
- 
+
 Detailed Requirement Descriptions:
 
 The Chief Technology officer position is to manage the ICT department in meeting the business needs of the organisation and external service needs for the public. This may include dealing with strategical implementation of the ICT infrastructure to further improve customer service performance towards clients. Further supporting the development of internal services to improve the efficiency of the organisation to provide a more stable structure, which will improve reliability with the client base. I believe that this role, in its very core, a position that aims at developing the infrastructure of Australia and further advancing our technological means for further development e.g. residential expansion. I do see the position as having a broader approach on ICT functions within Australia instead of being limited to a small business with no real understanding of the changing trends within the bigger society. 
@@ -58,6 +58,8 @@ ImageResults:
 <b><img src="https://user-images.githubusercontent.com/58510464/70858900-bad30580-1f5e-11ea-971a-9ce1706f06b1.PNG" width="976" height="741"></b><br>
   <br><br>
 </p>
+
+NERIS Analytics Limited 2011-2019, infj-personality, NERIS Analytics Limited, viewed date 7 December 2019, <https://www.16personalities.com/infj-personality>.
 
 Online Learning Style Test – Visual Learner
 
@@ -126,3 +128,12 @@ In order to undertake the project, the following skills will be required:
 https://phonegap.com/products/
 
 After our extended marketing program we should see a surge of users opting in for the subscription and an increase in agricultural sales for plant sellers who opt in for the program. We would also see an increase in educational uses within schools. Students would be able to learn through the educational program on how to tend potted plants. Learning about the life cycle and scientific complexities behind organic organisms. I believe this application will see a great impact in allowing more people to be informed on how to look after the environment and ensuring that users are doing their best to make living conditions better for the garden. 
+
+<p align="center">
+<b>References</b><br>
+  <br><br>
+</p>
+
+
+
+NERIS Analytics Limited 2011-2019, infj-personality, NERIS Analytics Limited, viewed date 7 December 2019, <https://www.16personalities.com/infj-personality>.
