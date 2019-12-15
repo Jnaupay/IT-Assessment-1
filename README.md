@@ -59,8 +59,6 @@ ImageResults:
   <br><br>
 </p>
 
-NERIS Analytics Limited 2011-2019, infj-personality, NERIS Analytics Limited, viewed date 7 December 2019, <https://www.16personalities.com/infj-personality>.
-
 Online Learning Style Test – Visual Learner
 
 Website: <a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=7&V=10&T=3">Visual Learner Results</a> 
@@ -135,5 +133,10 @@ After our extended marketing program we should see a surge of users opting in fo
 </p>
 
 
+Seek 2019, 6 December 2019, Chief Information Officer, Seek, Viewed 8 December 2019, <https://www.seek.com.au/job/40539188?type=standout#searchRequestToken=6a7b19af-4f3d-47f2-9c5f-55d0593f6159>.
 
 NERIS Analytics Limited 2011-2019, infj-personality, NERIS Analytics Limited, viewed date 7 December 2019, <https://www.16personalities.com/infj-personality>.
+
+AULIVE n.d, Test My Creativity, AULIVE, viewed 7 December 2019, <http://www.testmycreativity.com/> 
+
+Pennsylvania Higher Education Assistance Agency 2019, What's Your Learning Style?, Pennsylvania Higher Education Assistance Agency, Viewed 7 December 2019, <http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=7&V=10&T=3>
