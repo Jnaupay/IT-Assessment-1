@@ -24,7 +24,7 @@ I expect to learn how to develop a solution to an existing problem we face withi
 Ideal Job:
 
 Job – Chief Technology Officer
-Job Advertisement Link – https://www.seek.com.au/job/40539188?type=standout#searchRequestToken=6a7b19af-4f3d-47f2-9c5f-55d0593f6159
+Job Advertisement Link – <a href="https://www.seek.com.au/job/40539188?type=standout#searchRequestToken=6a7b19af-4f3d-47f2-9c5f-55d0593f6159">Job Link</a> 
 
 Snapshot – 
  
