@@ -6,7 +6,7 @@
 **Personal Information:**
 
 <p align="center">
-<b><img src="https://raw.githubusercontent.com/Jnaupay/IT-Assessment-1/master/Assets/Jeremy%20Naupay%20Photo.jpg" width="525" height="496"></b><br>
+<b><img src="https://raw.githubusercontent.com/Jnaupay/IT-Assessment-1/master/Assets/Jeremy%20Naupay%20Photo.jpg" width="325" height="296"></b><br>
   <br><br>
 </p>
 
